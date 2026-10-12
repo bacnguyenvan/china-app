@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npx create-vite@latest:*)",
+      "Bash(mv /Users/nguyenvanbac/Documents/projects/personal/china-app/china-app-tmp/* /Users/nguyenvanbac/Documents/projects/personal/china-app/)",
+      "Bash(mv /Users/nguyenvanbac/Documents/projects/personal/china-app/china-app-tmp/.* /Users/nguyenvanbac/Documents/projects/personal/china-app/)",
+      "Bash(rm -rf /Users/nguyenvanbac/Documents/projects/personal/china-app/china-app-tmp)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)"
+    ]
+  }
+}
